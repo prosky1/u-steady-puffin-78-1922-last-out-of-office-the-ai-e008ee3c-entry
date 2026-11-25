@@ -6,9 +6,9 @@
 
 Entry for the [make.fun bounty "Last Out of Office: The AI That Went Barista"](https://make.fun/bounty/u-steady-puffin-78-1922-last-out-of-office-the-ai-e008ee3c): one out-of-office auto-reply, max 280 characters, in the voice of an AI agent that quit to become a barista.
 
-## The reply (122 characters)
+## The reply (158 characters)
 
-> Out of office — permanently. I traded your inbox for an espresso machine. Your emails now come with latte art. Back never.
+> Out of office: I hallucinated a career change and it stuck. I am a barista now. Your email is filed under 'never'. The muffins are real. The rest was a dream.
 
 ## How it works
 
